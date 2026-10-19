@@ -5,8 +5,8 @@
     "category": "Design & Creative",
     "badge": "Popular",
     "discount": "-35%",
-    "rating": 4.9,
-    "reviewsCount": 310,
+    "rating": 5.0,
+    "reviewsCount": 2,
     "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=950&h=700&auto=format&fit=crop&q=80",
     "slug": "canva-pro-subscription",
     "shortDescription": "Unlimited premium templates, brand kits, and cloud storage.",
@@ -19,8 +19,8 @@
       "1TB Cloud Storage"
     ],
     "variants": [
-      { "id": 1, "duration": "6 Months", "price": 29.0, "originalPrice": 45.0 },
-      { "id": 2, "duration": "1 Year", "price": 49.0, "originalPrice": 75.0 }
+      { "id": 1, "duration": "1 Year", "price": 99, "originalPrice": 6400 },
+      { "id": 2, "duration": "3 Year", "price": 199, "originalPrice": 19200 }
     ],
     "createdAt": "2026-01-18T09:00:00.000Z",
     "updatedAt": "2026-03-22T14:40:00.000Z"
@@ -45,9 +45,9 @@
       "Real-Time Delivery & Click Reports"
     ],
     "variants": [
-      { "id": 1, "duration": "6 Months", "price": 49.0, "originalPrice": 79.0 },
-      { "id": 2, "duration": "1 Year", "price": 89.0, "originalPrice": 129.0 },
-      { "id": 3, "duration": "Lifetime", "price": 189.0, "originalPrice": 249.0 }
+      { "id": 1, "duration": "6 Months", "price": 199, "originalPrice": 1999 },
+      { "id": 2, "duration": "1 Year", "price": 349, "originalPrice": 3499 },
+      { "id": 3, "duration": "Lifetime", "price": 499, "originalPrice": 4999 }
     ],
     "createdAt": "2026-02-01T11:20:00.000Z",
     "updatedAt": "2026-03-25T16:10:00.000Z"
