@@ -41,7 +41,7 @@ export default function Navbar() {
             <Link href="/" className="flex items-center gap-2.5 py-1">
               <div className="relative flex h-10 w-10 shrink-0 items-center justify-center overflow-hidden rounded-lg">
                 <Image
-                  src="/icon.png"
+                  src="/logo.png"
                   alt="Soft License Hub Logo"
                   width={40}
                   height={40}
@@ -125,7 +125,7 @@ export default function Navbar() {
           >
             <div className="relative flex h-9 w-9 shrink-0 items-center justify-center overflow-hidden rounded-lg">
               <Image
-                src="/icon.png"
+                src="/logo.png"
                 alt="Soft License Hub Logo"
                 width={36}
                 height={36}
