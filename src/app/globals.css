@@ -8,6 +8,7 @@
 :root {
   --primary: #159946;
   --primary-hover: #15803D;
+  --secondary-color: #84CC16;
   --primary-gradient: linear-gradient(135deg, #84CC16 0%, #159946 50%, #065F46 100%);
 }
 
